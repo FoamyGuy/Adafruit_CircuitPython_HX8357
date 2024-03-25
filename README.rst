@@ -1,17 +1,21 @@
 Introduction
 ============
 
+
 .. image:: https://readthedocs.org/projects/adafruit-circuitpython-hx8357/badge/?version=latest
     :target: https://docs.circuitpython.org/projects/hx8357/en/latest/
     :alt: Documentation Status
+
 
 .. image:: https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/badges/adafruit_discord.svg
     :target: https://adafru.it/discord
     :alt: Discord
 
+
 .. image:: https://github.com/adafruit/Adafruit_CircuitPython_HX8357/workflows/Build%20CI/badge.svg
     :target: https://github.com/adafruit/Adafruit_CircuitPython_HX8357/actions/
     :alt: Build Status
+
 
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/psf/black
